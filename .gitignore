@@ -1,0 +1,5 @@
+# Nunca subir credenciales
+*.token
+Token*.txt
+accesskey*.txt
+.env

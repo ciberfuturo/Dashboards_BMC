@@ -1,0 +1,14 @@
+{
+  "name": "axity-helix",
+  "owner": {
+    "name": "Axity Colombia - ITOM"
+  },
+  "plugins": [
+    {
+      "name": "helix-dashboards",
+      "source": "./plugins/helix-dashboards",
+      "description": "Crea, mejora y promueve dashboards de BMC Helix Dashboards (dev/QA/prod) desde la sesión de Chrome del usuario. Incluye plantilla de backlog de incidentes.",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "helix-dashboards",
+  "version": "1.0.0",
+  "description": "Crea, mejora y promueve dashboards de BMC Helix Dashboards (Grafana) en cualquier ambiente usando la sesión de Chrome del usuario (Claude in Chrome).",
+  "author": {
+    "name": "Axity Colombia - ITOM"
+  },
+  "keywords": ["bmc", "helix", "grafana", "dashboards", "itsm"]
+}
