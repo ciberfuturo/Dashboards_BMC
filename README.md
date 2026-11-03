@@ -16,12 +16,11 @@ crea queda registrado a tu nombre en el historial de Grafana.
 En Claude Code, ejecuta:
 
 ```
-/plugin marketplace add <URL-del-repositorio>
+/plugin marketplace add ciberfuturo/Dashboards_BMC
 /plugin install helix-dashboards@axity-helix
 ```
 
-`<URL-del-repositorio>` puede ser `organizacion/repositorio` (GitHub) o la URL git completa (GitLab, Azure DevOps, etc.).
-Si el repositorio es privado, tu git local debe tener acceso a él.
+El repositorio es https://github.com/ciberfuturo/Dashboards_BMC (privado: pide acceso al dueño).
 
 Para recibir mejoras más adelante: `/plugin marketplace update axity-helix`.
 
